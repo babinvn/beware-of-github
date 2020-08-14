@@ -1,5 +1,5 @@
-# curse-github
-Curse Github
+# Curse Github
+
 
 For those who imagine they can trust their work to Github:
 
