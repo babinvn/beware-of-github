@@ -1,4 +1,4 @@
-# Curse Github
+# Beware of Github
 
 
 For those who imagine they can trust their work to Github:
